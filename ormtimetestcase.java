@@ -73,7 +73,7 @@ public class ormtimetestcase {
 		orangehrmtime oh = new orangehrmtime(driver);
 		oh.TC011();
 	}
-   /*	@Test
+        @Test
 	public void TC013() throws InterruptedException{
 		orangehrmtime oh = new orangehrmtime(driver);
 		oh.TC013();
@@ -203,6 +203,6 @@ public class ormtimetestcase {
 		orangehrmtime oh = new orangehrmtime(driver);
 		oh.TC040();
 		driver.quit();
-	}*/
+	}
 
 }
